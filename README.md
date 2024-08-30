@@ -6,7 +6,7 @@ Zipper |  Zipp Your Files
 2.width python file
 
 # Install Width .EXE File
-<link></link>
+<link>https://github.com/Aiprogramming9099/Zipper/releases/tag/zipper</link>
 
 # Install width python file
 1. $ cd /Zipper
